@@ -1,0 +1,6 @@
+Region,region_bp,bg_fraction,quadruplex_count,quadruplex_fraction,quadruplex_enrichment_vs_bg,zhunt_count,zhunt_fraction,zhunt_enrichment_vs_bg,zdnabert_count,zdnabert_fraction,zdnabert_enrichment_vs_bg
+Exons,24729451,0.065105,70,0.0412,0.63,2549,0.0384,0.59,223,0.0116,0.18
+Introns,177993139,0.468602,761,0.4479,0.96,30829,0.4648,0.99,9433,0.4902,1.05
+Promoters,9393419,0.02473,35,0.0206,0.83,1548,0.0233,0.94,358,0.0186,0.75
+Downstream,1883222,0.004958,22,0.0129,2.61,311,0.0047,0.95,53,0.0028,0.56
+Intergenic,177115634,0.466292,875,0.515,1.1,33177,0.5002,1.07,9589,0.4983,1.07
