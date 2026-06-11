@@ -1,6 +1,6 @@
-Region,region_bp,bg_fraction,quadruplex_count,quadruplex_fraction,quadruplex_enrichment_vs_bg,zhunt_count,zhunt_fraction,zhunt_enrichment_vs_bg
-Exons,23715694,0.061247,57,0.0476,0.78,4797,0.0214,0.35
-Introns,175692725,0.453733,477,0.3987,0.88,75726,0.3374,0.74
-Promoters,8938943,0.02332,50,0.0414,1.78,5410,0.0241,1.03
-Downstream,1791378,0.004673,18,0.0150,3.21,1357,0.0060,1.29
-Intergenic,187809511,0.485025,595,0.4973,1.03,137150,0.6111,1.26
+Region,region_bp,bg_fraction,quadruplex_count,quadruplex_fraction,quadruplex_enrichment_vs_bg,zhunt_count,zhunt_fraction,zhunt_enrichment_vs_bg,zdnabert_count,zdnabert_fraction,zdnabert_enrichment_vs_bg
+Exons,23870386,0.061308,57,0.0507,0.83,2376,0.0350,0.57,204,0.0257,0.42
+Introns,175622123,0.451063,476,0.4235,0.94,30363,0.4478,0.99,7212,0.4428,0.98
+Promoters,11504789,0.029549,30,0.0267,0.90,1895,0.0280,0.95,400,0.0246,0.83
+Downstream,2458551,0.006314,16,0.0142,2.25,415,0.0061,0.97,15,0.0009,0.14
+Intergenic,189880685,0.487685,596,0.5302,1.09,35260,0.5201,1.07,8207,0.5060,1.04
